@@ -5,6 +5,7 @@ import { Context } from "../context/contextApi";
 import LeftNav from "./LeftNav";
 import SearchResultVideoCard from "./SearchResultVideoCard";
 
+
 const SearchResult = () => {
     const [result, setResult] = useState();
     const { searchQuery } = useParams();
