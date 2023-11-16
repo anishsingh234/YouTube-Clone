@@ -96,7 +96,7 @@ const Header = () => {
                     </div>
                 </div>
                 <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4">
-                    <img src="https://ui-avatars.com/api/?name=John+Doe" alt="User Avatar" />
+                    <img src="https://www.gravatar.com/avatar/EMAIL_MD5?d=https%3A%2F%2Fui-avatars.com%2Fapi%2F/Lasse+Rafn/128" alt="User Avatar" />
                 </div>
             </div>
         </div>
